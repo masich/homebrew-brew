@@ -6,6 +6,7 @@ Homebrew Tap containing my macOS applications (casks).
 
 ## Installation
 Don't have Homebrew? Follow [these instructions](https://brew.sh).
+
 Add this Tap:
 ```shell
 brew tap masich/brew
